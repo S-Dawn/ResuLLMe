@@ -1,4 +1,5 @@
 # Base image
+# docker-compose up -d
 FROM ubuntu:22.04
 
 # Working directory, Streamlit does not work at root
